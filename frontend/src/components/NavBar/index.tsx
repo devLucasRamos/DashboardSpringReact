@@ -1,4 +1,4 @@
-import ImgDsDark from 'C:/Users/User/Documents/ws-devsuperior/projeto-sds3/frontend/src/assets/img/ds-dark.svg';
+import ImgDsDark from 'assets/img/ds-dark.svg';
 function NavBar() {
     return (
         <div className="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-light border-bottom shadow-sm">
