@@ -21,7 +21,7 @@ const Home = () => {
       </div>
       <Footer />
     </>
-  )
+    )
 }
 
 export default Home;
